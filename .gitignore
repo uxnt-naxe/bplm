@@ -1,0 +1,21 @@
+# Xmake cache
+.xmake/
+build/
+
+# MacOS Cache
+.DS_Store
+
+# cmake
+cmake-build-debug/
+cmake-build-debug-mingw/
+cmake-build-debug-visual-studio/
+
+cmake-build-release/
+cmake-build-release-mingw/
+cmake-build-release-visual-studio/
+
+
+# idea
+.idea/
+idea/
+out/
