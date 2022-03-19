@@ -8,13 +8,11 @@
 BPLM 编程语言是一门免费开源的编程语言，由 Uxnt 开发。 
 
 为什么叫 BPLM 是蓝紫色液态金属在未来科幻3870年未来编程语言，有的非常稀有（外星液态金属科技时代）。
-
 BluePurpleLiquidMetal (蓝紫色液态金属编程语言)
-
-将液态金属倒进计算机开始编程
-	
+将液态金属倒进计算机开始编程	
 BPLM 编程语言
 	
+- [x] antlr4 语法生成器工具
 	
 [![Gitter](https://badges.gitter.im/uxnt/cpp-script.svg)](https://gitter.im/uxnt/cpp-script?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
