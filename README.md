@@ -18,7 +18,6 @@ Blue Purple Liquid Metal (蓝紫色液态金属编程语言)
 </div>
 
 
----
 ## bplm - 你好世界
 ```go
 plug "stdio.h"
@@ -33,7 +32,7 @@ end
 ```
 Hello, World - 2021
 ```
-----
+
 ## bplm - 算法
 ```go
 plug "stdio.h"
@@ -46,7 +45,7 @@ end
 ```
 2
 ```
----
+
 ## bplm - 判断
 ```go
 plug "stdio.h"
@@ -61,7 +60,7 @@ end
 ```
 Well done!
 ```
----
+
 
 ## bplm - 关键字
 
