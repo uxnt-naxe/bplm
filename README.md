@@ -3,12 +3,12 @@
 <h1><img src="BPLM.svg" alt="Logo" width="256"></h1>
 </a>
 
-### BluePurpleLiquidMetal (bplm 编程语言)
+### Blue Purple Liquid Metal (bplm 编程语言)
 
 bplm 编程语言是一门免费开源的编程语言，由 Uxnt 开发。 
 
 为什么叫 bplm 是蓝紫色液态金属在未来科幻3870年未来编程语言，有的非常稀有（外星液态金属科技时代）。
-BluePurpleLiquidMetal (蓝紫色液态金属编程语言)
+Blue Purple Liquid Metal (蓝紫色液态金属编程语言)
 将液态金属倒进计算机开始 bplm 编程语言
 	
 - [x] antlr4 语法生成器工具
