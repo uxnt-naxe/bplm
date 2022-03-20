@@ -70,14 +70,14 @@ plug "xxx"
 
 // const class
 
+// 块体
 func() xxxx() end
 if() xxxx() end
 else if xxxx() end
 for() xxxx() end
 while() xxxx() end
 
-
-
+// 变量
 var xxx = xxx
 int xxx = 999
 byte xxx = 0xfffff
