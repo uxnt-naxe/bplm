@@ -80,7 +80,7 @@ while() xxxx() end
 // 变量
 var xxx = xxx
 int xxx = 999
-byte xxx = 0xfffff
+byte xxx = 0xffff
 long xxx = 99.99
 float xxx = 99.99
 double xxx = 99.99
