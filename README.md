@@ -65,18 +65,29 @@ Well done!
 ## bplm - 关键字
 
 
-```
+```lua
 plug //导入库、文件
 
 // const class
 
-func var int byte long float double char string return
+func() xxxx end
+var xxx = xxx
+int xxx = 999
+byte xxx = xxx
+long xxx = 99.99
+float xxx = 99.99
+double xxx = 99.99
+char xxx = 'x'
+string xxx = "xxx"
 
-bool true false null
+bool xxx = true 
+bool xxx = false 
 
-if else
+return null
 
-for while
+if else for while
+
+
 
 
 ```
