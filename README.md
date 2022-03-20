@@ -73,13 +73,10 @@ plug "xxx"
 // 块体
 func xxxx() xxxx() end
 // 变量
-var xxx = xxx
-int xxx = 999
-byte xxx = 0xffff
-long xxx = 99.99
-float xxx = 99.99
-double xxx = 99.99
-char xxx = 'x'
+// var xxx = xxx
+// byte xxx = 0xffff
+
+num xxx = 999
 string xxx = "xxx"
 
 bool xxx = true 
