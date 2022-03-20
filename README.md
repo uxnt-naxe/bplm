@@ -64,31 +64,21 @@ Well done!
 
 ## bplm - 关键字
 
-|关键字|
-|-|
-|plug|
-|var|
-|func|
-|if|
-|else|
-|elsif|
-|while|
-|for|
-|return|
-|true|
-|false|
-|null|
-||
-|boolean|
-|byte|
-|class|
-|int|
-|const|
-|long|
-|float|
-|double|
-|char|
-|void|
-|string|
+
+```
+plug //导入库、文件
+
+// const class
+
+func var int byte long float double char string return
+
+bool true false null
+
+if else
+
+for while
+
+
+```
 
 
