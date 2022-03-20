@@ -66,7 +66,7 @@ Well done!
 
 
 ```lua
-plug //导入库、文件
+plug "xxx"
 
 // const class
 
