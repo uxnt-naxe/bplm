@@ -72,11 +72,6 @@ plug "xxx"
 
 // 块体
 func xxxx() xxxx() end
-if() xxxx() end
-else if xxxx() end
-for() xxxx() end
-while() xxxx() end
-
 // 变量
 var xxx = xxx
 int xxx = 999
@@ -91,6 +86,15 @@ bool xxx = true
 bool xxx = false 
 
 return null
+
+// 体
+if() xxxx() end
+else if xxxx() end
+for() xxxx() end
+while() xxxx() end
+
+
+
 
 ```
 
