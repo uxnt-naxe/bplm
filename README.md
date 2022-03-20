@@ -65,7 +65,7 @@ Well done!
 ## bplm - 关键字
 
 
-```lua,go,rust
+```lua,go,rust,js
 plug "xxx"
 
 // const class
