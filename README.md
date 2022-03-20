@@ -73,7 +73,7 @@ plug //导入库、文件
 func() xxxx end
 var xxx = xxx
 int xxx = 999
-byte xxx = xxx
+byte xxx = 0xfffff
 long xxx = 99.99
 float xxx = 99.99
 double xxx = 99.99
