@@ -71,7 +71,7 @@ plug "xxx"
 // const class
 
 // 块体
-func() xxxx() end
+func xxxx() xxxx() end
 if() xxxx() end
 else if xxxx() end
 for() xxxx() end
