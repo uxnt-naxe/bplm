@@ -70,7 +70,14 @@ plug "xxx"
 
 // const class
 
-func() xxxx end
+func() xxxx() end
+if() xxxx() end
+else if xxxx() end
+for() xxxx() end
+while() xxxx() end
+
+
+
 var xxx = xxx
 int xxx = 999
 byte xxx = 0xfffff
@@ -84,11 +91,6 @@ bool xxx = true
 bool xxx = false 
 
 return null
-
-if else for while
-
-
-
 
 ```
 
