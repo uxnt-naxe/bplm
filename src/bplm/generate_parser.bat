@@ -1,1 +1,1 @@
-.\tools\antlr4.jar -Dlanguage=Cpp ./bplm.g4 -lib ./ -o ./build/src/ -visitor -no-listener -package bplm::language
+.\tools\antlr-4.9.3-complete.jar -Dlanguage=Cpp ./bplm.g4 -lib ./ -o ./src/ -visitor -no-listener -package bplm::language
