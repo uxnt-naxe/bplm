@@ -1,4 +1,1 @@
-plug "stdio.h"
-func main()
-  print("Hello, World")
-end
+print("Hello World")
