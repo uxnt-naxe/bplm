@@ -4,6 +4,12 @@ using namespace std;
 
 // const int var = 60;
 
+
+
+
+
+
+
 // identifier (标识符)
 char* identifier[] = {
       "import", "var", "function",
