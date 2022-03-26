@@ -7,9 +7,6 @@ using namespace std;
 
 
 
-
-
-
 // identifier (标识符)
 char* identifier[] = {
       "import", "var", "function",
@@ -18,6 +15,11 @@ char* identifier[] = {
       "true", "false", "null",
       "main"
 };
+
+
+
+
+
 
 
 
