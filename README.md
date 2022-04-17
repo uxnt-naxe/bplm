@@ -25,6 +25,13 @@ func main()
      var x = 2021
      print("Hello, World" + " - " + x)
 ```
+
+```go
+plug "stdio.h"
+func main()
+ var x = 2021
+ print("Hello, World" + " - " + x)
+```
 打印输出：
 
 ```
@@ -79,7 +86,7 @@ bool xxx = false
 
 return null
 
-// 体
+// tim
 if() xxxx() end
 else if xxxx() end
 for() xxxx() end
