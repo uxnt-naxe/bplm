@@ -24,8 +24,6 @@ plug "stdio.h"
 func main()
      var x = 2021
      print("Hello, World" + " - " + x)
-end
-
 ```
 打印输出：
 
@@ -38,7 +36,6 @@ Hello, World - 2021
 plug "stdio.h"
 func main()
      printf(1+1)
-end
 ```
 打印输出：
 
@@ -53,8 +50,6 @@ func main()
      var x = 6
      if(x > 5)
           printf("Well done!")
-     end
-end
 ```
 打印输出：
 ```
