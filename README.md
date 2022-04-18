@@ -44,6 +44,12 @@ plug "stdio.h"
 func main()
      printf(1+1)
 ```
+
+```go
+plug "stdio.h"
+func main()
+ printf(1+1)
+```
 打印输出：
 
 ```
@@ -57,6 +63,13 @@ func main()
      var x = 6
      if(x > 5)
           printf("Well done!")
+```
+```go
+plug "stdio.h"
+func main()
+ var x = 6
+ if(x > 5)
+  printf("Well done!")
 ```
 打印输出：
 ```
