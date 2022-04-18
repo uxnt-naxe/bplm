@@ -25,7 +25,7 @@ func main()
      var x = 2021
      print("Hello, World" + " - " + x)
 ```
-
+空格语法：
 ```go
 plug "stdio.h"
 func main()
@@ -44,7 +44,7 @@ plug "stdio.h"
 func main()
      printf(1+1)
 ```
-
+空格语法：
 ```go
 plug "stdio.h"
 func main()
@@ -64,6 +64,7 @@ func main()
      if(x > 5)
           printf("Well done!")
 ```
+空格语法：
 ```go
 plug "stdio.h"
 func main()
