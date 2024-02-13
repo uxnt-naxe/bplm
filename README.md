@@ -79,6 +79,8 @@ func main()
  var x = 6
  if(x > 5)
   printf("Well done!")
+  ~
+~
 ```
 打印输出：
 ```
