@@ -32,10 +32,10 @@ func main()
 ```go
 import "stdio.h"
 func main()
-~
+[
      var x = 2021
      print("Hello, World" + " - " + x)
-~
+]
 ```
 打印输出：
 
@@ -47,15 +47,17 @@ Hello, World - 2021
 ```go
 import "stdio.h"
 func main()
-     printf(1+1)
-~
+[
+     printf(1 + 1)
+]
 ```
 空格语法：
 ```go
 import "stdio.h"
 func main()
- printf(1+1)
-~
+[
+     printf(1+1)
+]
 ```
 打印输出：
 
