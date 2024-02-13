@@ -22,10 +22,10 @@ Blue Purple Liquid Metal (蓝紫色液态金属编程语言)
 ## bplm - 你好世界
 ```go
 import "stdio.h"
-func main()
+func main() ~
      var x = 2021
      print("Hello, World" + " - " + x)
-~
+end
 
 ```
 空格语法：
