@@ -21,14 +21,14 @@ Blue Purple Liquid Metal (蓝紫色液态金属编程语言)
 
 ## bplm - 你好世界
 ```go
-plug "stdio.h"
+import "stdio.h"
 func main()
      var x = 2021
      print("Hello, World" + " - " + x)
 ```
 空格语法：
 ```go
-plug "stdio.h"
+import "stdio.h"
 func main()
  var x = 2021
  print("Hello, World" + " - " + x)
@@ -41,13 +41,13 @@ Hello, World - 2021
 
 ## bplm - 算法
 ```go
-plug "stdio.h"
+import "stdio.h"
 func main()
      printf(1+1)
 ```
 空格语法：
 ```go
-plug "stdio.h"
+import "stdio.h"
 func main()
  printf(1+1)
 ```
@@ -59,7 +59,7 @@ func main()
 
 ## bplm - 判断
 ```go
-plug "stdio.h"
+import "stdio.h"
 func main()
      var x = 6
      if(x > 5)
@@ -67,7 +67,7 @@ func main()
 ```
 空格语法：
 ```go
-plug "stdio.h"
+import "stdio.h"
 func main()
  var x = 6
  if(x > 5)
@@ -83,7 +83,7 @@ Well done!
 
 
 ```go
-plug "xxx"
+import "xxx"
 
 // const class
 
