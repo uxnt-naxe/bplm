@@ -25,6 +25,8 @@ import "stdio.h"
 func main()
      var x = 2021
      print("Hello, World" + " - " + x)
+~
+
 ```
 空格语法：
 ```go
@@ -32,6 +34,7 @@ import "stdio.h"
 func main()
  var x = 2021
  print("Hello, World" + " - " + x)
+~
 ```
 打印输出：
 
@@ -44,12 +47,14 @@ Hello, World - 2021
 import "stdio.h"
 func main()
      printf(1+1)
+~
 ```
 空格语法：
 ```go
 import "stdio.h"
 func main()
  printf(1+1)
+~
 ```
 打印输出：
 
@@ -61,9 +66,11 @@ func main()
 ```go
 import "stdio.h"
 func main()
-     var x = 6
-     if(x > 5)
-          printf("Well done!")
+	var x = 6
+	if(x > 5)
+		printf("Well done!")
+	~
+~
 ```
 空格语法：
 ```go
