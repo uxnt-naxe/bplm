@@ -32,8 +32,9 @@ func main()
 ```go
 import "stdio.h"
 func main()
- var x = 2021
- print("Hello, World" + " - " + x)
+~
+     var x = 2021
+     print("Hello, World" + " - " + x)
 ~
 ```
 打印输出：
