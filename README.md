@@ -5,7 +5,7 @@
 
 ### Blue Purple Liquid Metal (bplm 编程语言)
 
-bplm和otne 离不开plug关键词的。
+bplm和otne 离不开plug关键词的。bplm语法很像py语法这样
 
 bplm 编程语言是一门免费开源的编程语言，由 Uxnt 开发。 
 
