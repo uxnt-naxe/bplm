@@ -33,11 +33,10 @@ end
 空格语法：
 ```go
 plug "stdio.h"
-func main()
-[
+func main() {
      var x = 2021
      print("Hello, World" + " - " + x)
-]
+}
 ```
 打印输出：
 
@@ -48,18 +47,16 @@ Hello, World - 2021
 ## bplm - 算法
 ```go
 plug "stdio.h"
-func main()
-[
+func main() {
      printf(1 + 1)
-]
+}
 ```
 空格语法：
 ```go
 plug "stdio.h"
-func main()
-[
+func main() {
      printf(1+1)
-]
+}
 ```
 打印输出：
 
