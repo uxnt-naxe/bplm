@@ -7,7 +7,7 @@
 
 bplm和otne 离不开plug关键词的。bplm语法很像py语法这样
 
-bplm 编程语言是一门免费开源的编程语言，由 Uxnt 开发。 
+bplm 编程语言是一门新语法的编程语言，由 Uxnt 开发。 
 
 为什么叫 bplm 是蓝紫色液态金属在未来科幻3870年未来编程语言，有的非常稀有（外星液态金属科技时代）。
 Blue Purple Liquid Metal (蓝紫色液态金属编程语言)
