@@ -2,6 +2,8 @@
 using namespace std;
 
 
+template<class T>
+int getLength(T& arr) { return sizeof(arr) / sizeof(arr[0]); }
 
 
 // const int var = 60;
@@ -19,13 +21,21 @@ char* identifier[] = {
 
 
 
+int main(int argc, char *argv[]) {
 
+    setlocale(LC_ALL, "");          // Linux MinGW GCC MSVC
+    ios::sync_with_stdio(false);    // Linux gcc     
+    // i18nString source = OtneReadFile("code.otne");
+    // wcout << source << endl;
 
-int main() {
+    wcout << L"你好" << endl;
+    wcout << L"----------------------------------" << endl;
+    // lexer(source);
+    // return 0;
 
-    for(int to = 0; 7 > to; to++) {
+    for(int to = 0; getLength(identifier) > to; to++) {
         //<id, import>
-        cout << "<id, " << identifier[to] << ">" << endl;
+        wcout << "<id, " << identifier[to] << ">" << endl;
     }
 
     return 0;

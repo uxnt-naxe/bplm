@@ -1,10 +1,9 @@
 cmake_minimum_required(VERSION 3.19)
-project(BPLM)
+#project(BPLM)
+#add_subdirectory ("src/cpp")
 
-
-
-add_subdirectory ("src/bplm")
-
+project ("bplm")
+add_subdirectory ("src/cpp")
 
 
 # MSVC utf-8
