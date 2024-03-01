@@ -21,7 +21,7 @@ Blue Purple Liquid Metal (蓝紫色液态金属编程语言)
 
 ## bplm - 你好世界
 ```go
-import "stdio.h"
+plug "stdio.h"
 func main () ~
      var x = 2021
      print("Hello, World" + " - " + x)
@@ -30,7 +30,7 @@ end
 ```
 空格语法：
 ```go
-import "stdio.h"
+plug "stdio.h"
 func main()
 [
      var x = 2021
@@ -45,7 +45,7 @@ Hello, World - 2021
 
 ## bplm - 算法
 ```go
-import "stdio.h"
+plug "stdio.h"
 func main()
 [
      printf(1 + 1)
@@ -53,7 +53,7 @@ func main()
 ```
 空格语法：
 ```go
-import "stdio.h"
+plug "stdio.h"
 func main()
 [
      printf(1+1)
