@@ -99,7 +99,7 @@ plug "xxx"
 // const class
 
 // 块体
-func xxxx() xxxx() end
+func xxxx() xxxx() ~
 // 变量
 // var xxx = xxx
 // byte xxx = 0xffff
@@ -113,10 +113,10 @@ bool xxx = false
 return null
 
 // tim
-if() xxxx() end
-else if xxxx() end
-for() xxxx() end
-while() xxxx() end
+if() xxxx() ~
+else if xxxx() ~
+for() xxxx() ~
+while() xxxx() ~
 
 
 
