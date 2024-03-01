@@ -2,21 +2,18 @@
 using namespace std;
 
 
+
+
 // const int var = 60;
-
-
-
-
 // identifier (标识符)
+// import  function
 char* identifier[] = {
-      "import", "var", "function",
+      "plug", "var", "func",
       "if", "else", "elsif",
       "while", "for", "return",
       "true", "false", "null",
       "main"
 };
-
-
 
 
 
