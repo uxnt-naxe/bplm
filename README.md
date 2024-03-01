@@ -67,7 +67,7 @@ func main()
 
 ## bplm - 判断
 ```go
-import "stdio.h"
+plug "stdio.h"
 func main()
 	var x = 6
 	if(x > 5)
@@ -77,7 +77,7 @@ func main()
 ```
 空格语法：
 ```go
-import "stdio.h"
+plug "stdio.h"
 func main()
  var x = 6
  if(x > 5)
@@ -95,7 +95,7 @@ Well done!
 
 
 ```go
-import "xxx"
+plug "xxx"
 
 // const class
 
