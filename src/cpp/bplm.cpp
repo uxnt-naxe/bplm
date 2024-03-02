@@ -56,10 +56,10 @@ R"(
 
    // wcout << endl;
 
-    // i18nString source = OtneReadFile("code.otne");
-    // wcout << source << endl;
-    // lexer(source);
-    // return 0;
+    i18nString source = OtneReadFile("code.otne");
+    wcout << source << endl;
+    lexer(source);
+    return 0;
 
     // for(int to = 0; getLength(identifier) > to; to++) {
     //     //<id, import>
