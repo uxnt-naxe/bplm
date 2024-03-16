@@ -1,6 +1,5 @@
 #include "bplmLexer.hpp"
 
-
     // ernx(plug,"plug");
     // MAKE_NAME(Bool,"bool"),
 	// MAKE_NAME(String,"string"),
@@ -8,10 +7,10 @@
    //  import, "import"
    //  string, "string"
 
-
     // const int var = 60;
     // identifier (标识符)
     // import  function
+
     std::string identifier[] = {
         "plug", "var", "func",
         "if", "else", "elsif",
@@ -35,7 +34,7 @@ namespace Bplm {
 
     Lexer::Lexer(std::string buffer) {
 
-        regexKeyWord(, "plug");
+        // regexKeyWord(, "plug");
 
         printf("%s",buffer.data());
         this->buffer = buffer;
