@@ -1,8 +1,6 @@
 #include "bplmFile.hpp"
 #include <sstream>
-
 #include <cstring>
-
 #include <fstream>
 
 // using namespace std;
